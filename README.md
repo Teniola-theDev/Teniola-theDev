@@ -1,6 +1,6 @@
-Teniola Olowookere
+Teniola Olowookere.
 
-Frontend Developer
+Frontend Developer.
 
 Reach me: https://www.linkedin.com/in/olowookere-teniola/
 
