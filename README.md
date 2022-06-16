@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Teniola-theDev
-- 👀 I’m interested in Front-end Web Development 
-- 🌱 I’m currently learning CSS (responsive web design)
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me teniolasimiloluwa@gmail.com
+Teniola Olowookere
+
+Frontend Developer
+
+Reach me: https://www.linkedin.com/in/olowookere-teniola/
 
 <!---
 Teniola-theDev/Teniola-theDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
